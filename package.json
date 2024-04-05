@@ -1,0 +1,25 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjana-mano/miniproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjana-mano/miniproject/issues"
+  },
+  "homepage": "https://github.com/anjana-mano/miniproject#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
